@@ -335,7 +335,8 @@ TARG_ENV_HFILES = \
 	config/te-symbian.h \
 	config/te-tmips.h \
 	config/te-vxworks.h \
-	config/te-wince-pe.h
+	config/te-wince-pe.h \
+	config/te-inwox.h
 
 TARG_ENV_CFILES = \
 	config/te-vms.c

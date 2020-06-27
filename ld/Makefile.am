@@ -289,6 +289,7 @@ ALL_EMULATION_SOURCES = \
 	eelf32xtensa.c \
 	eelf32z80.c \
 	eelf_i386.c \
+	eelf_i386_inwox.c \
 	eelf_i386_be.c \
 	eelf_i386_fbsd.c \
 	eelf_i386_ldso.c \
@@ -459,6 +460,7 @@ ALL_64_EMULATION_SOURCES = \
 	eelf_k1om.c \
 	eelf_k1om_fbsd.c \
 	eelf_x86_64.c \
+	eelf_x86_64_inwox.c \
 	eelf_x86_64_cloudabi.c \
 	eelf_x86_64_fbsd.c \
 	eelf_x86_64_nacl.c \
